@@ -1,4 +1,7 @@
 Mentor tips for submitting your work
+---
+
+[!Mentor tips for submitting your work](https://www.coursera.org/learn/machine-learning/discussions/vgCyrQoMEeWv5yIAC00Eog)
 
 Tom MosherMentor · [5 months ago](https://www.coursera.org/learn/machine-learning/discussions/vgCyrQoMEeWv5yIAC00Eog) · Edited
 
