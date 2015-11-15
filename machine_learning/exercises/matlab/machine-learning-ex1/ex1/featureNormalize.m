@@ -26,13 +26,26 @@ sigma = zeros(1, size(X, 2));
 % Hint: You might find the 'mean' and 'std' functions useful.
 %       
 
+% Method 1: Using for-loop
+%{
+mu = mean(X); % mean of the feature
+sigma = std(X); % standard deviation
+for i = 1:size(X,2)
+    X_norm(:,i) = (X(:,i) - mu(i)) / sigma(i);
+end
+%}
 
 
+% Method 2: Without for-loop
+mu = mean(X);              % returns a row vector
+sigma = std(X);            % returns a row vector
+m = size(X, 1);            % returns the number of rows in X
+mu_matrix = ones(m, 1) * mu; 
+sigma_matrix = ones(m, 1) * sigma;
 
-
-
-
-
+% subtract the mu matrix from X, and divide element-wise by the sigma matrix, 
+% and arrive at X_normalized
+X_norm = (X - mu_matrix) ./ sigma_matrix; 
 
 % ============================================================
 
