@@ -15,9 +15,11 @@ p = zeros(m, 1);
 %               You should set p to a vector of 0's and 1's
 %
 
+htheta = sigmoid(X * theta);
 
-
-
+% logical comparison 
+% converts it into 1's and 0's
+p = htheta >= 0.5;
 
 
 
