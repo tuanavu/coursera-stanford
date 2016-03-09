@@ -103,4 +103,4 @@ Lectures
 [Lecture 18: Application Example: Photo OCR](https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_11)
 - [Lecture18.pdf](https://github.com/tuanvu216/coursera-stanford/blob/master/machine_learning/lecture/week_11/Lecture18.pdf)
 - [Application Example-Photo OCR.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-stanford/blob/master/machine_learning/lecture/week_11/Application%20Example-Photo%20OCR.ipynb)
-- [quiz-Application-Photo OCR.ipynb](https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_11)
+- [quiz-Application-Photo OCR.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-stanford/blob/master/machine_learning/lecture/week_11/quiz-Application-Photo%20OCR.ipynb)
