@@ -7,4 +7,4 @@ This repo contains lectures and my solution of assignment in [Coursera Stanford 
 
 ## License
 
-All Solutions licensed under MIT License. See LICENSE.txt for further details.
+All Solutions licensed under MIT License. See LICENSE for further details.
