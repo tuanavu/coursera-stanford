@@ -5,7 +5,7 @@ This repo contains lectures and assignments of [Stanford Unitersity - Coursera](
 
 <br/>
 <p align="center">
-  <img src="http://imgsrv.1080thefan.com/image/kfxx/UserFiles/Image/stanford%20cardinal%20logo.png">
+  <img src="https://d9tyu2epg3boq.cloudfront.net/institutions/stanford.png">
 </p>
 
 ## License
