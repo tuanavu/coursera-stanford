@@ -12,9 +12,9 @@ This repo contains lectures and my solution of assignment in [Coursera Stanford 
 | Lecture | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Lecture 1](https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_1/i_introduction) | Introduction |
-| [Lecture 2](https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_1/ii_linear_regression_with_one_variable_week_1) | * Linear Regression with one variable |
-|  | * Linear Regression with one variable |
-|  | * Linear Regression with one variable |
+| [Lecture  | * Linear Regression with one variable |
+| 2] | * Linear Regression with one variable |
+| (https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_1/ii_linear_regression_with_one_variable_week_1) | * Linear Regression with one variable |
 | [Lecture 3](https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_1/i_introduction) | Linear Algebra Review |
 | [Lecture 4](https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_1/i_introduction) | Linear Regression with Multiple Variable |
 | [Lecture 5](https://github.com/tuanvu216/coursera-stanford/tree/master/machine_learning/lecture/week_1/i_introduction) | Octave Tutorial |
